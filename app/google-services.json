@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "630409115900",
+    "firebase_url": "https://flapp-12345.firebaseio.com",
+    "project_id": "flapp-12345",
+    "storage_bucket": "flapp-12345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630409115900:android:851ad649e1ae6309",
+        "android_client_info": {
+          "package_name": "flapp.com.flapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630409115900-fvm7r0e46n0rssjpi35ck375dlugl5of.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "flapp.com.flapp",
+            "certificate_hash": "c5467d4c39a0d7fa3485a775f913fe03b252b2fa"
+          }
+        },
+        {
+          "client_id": "630409115900-j30tdo1rlla1ulq4omckja4f1gu7ik0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZs1t3VOsGd3cnYt29lDlzytynY1ICDx4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630409115900-j30tdo1rlla1ulq4omckja4f1gu7ik0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
